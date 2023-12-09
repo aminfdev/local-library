@@ -1,0 +1,42 @@
+export let books = [
+  {
+    id: "1",
+    title: "The Hobbit",
+    genre: "Fantasy",
+    pages: 310,
+    author_id: "7bb1f2c6-edab-4509-a760-c75e93b5c4b1",
+    author: "J.R.R. Tolkien",
+  },
+  {
+    id: "2",
+    title: "To Kill a Mockingbird",
+    genre: "Fiction",
+    pages: 281,
+    author_id: "9a3cd0d0-88e8-4cc4-b4e1-587abb3c4a5d",
+    author: "Harper Lee",
+  },
+  {
+    id: "3",
+    title: "1984",
+    genre: "Dystopian",
+    pages: 328,
+    author_id: "16f8357a-59df-4e03-9a47-b74a4e6c8b5e",
+    author: "George Orwell",
+  },
+  {
+    id: "4",
+    title: "The Great Gatsby",
+    genre: "Classic",
+    pages: 180,
+    author_id: "b9efca29-4b5e-4a53-9e7e-990a946d93c7",
+    author: "F. Scott Fitzgerald",
+  },
+  {
+    id: "5",
+    title: "Harry Potter and the Sorcerer's Stone",
+    genre: "Fantasy",
+    pages: 309,
+    author_id: "d3e7c0a1-1a17-4d41-9a0b-4be6b8d8b066",
+    author: "J.K. Rowling",
+  },
+];
